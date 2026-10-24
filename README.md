@@ -84,7 +84,7 @@ Figures produced in `results/`:
 
 | File | Content |
 |---|---|
-| `convergence.png` | Best vs. average fitness per generation, population diversity, feasible fraction |
+| `convergence.png` | Best vs average fitness per generation, population diversity, feasible fraction |
 | `evolution_paths_coverage.png` | Flight paths and coverage heat-maps at generations 0, 10, 40 and the final generation |
 | `final_solution.png` | Final evolved plan with detected / missed targets |
 | `ga_vs_random.png`, `boxplot_ga_vs_random.png` | GA vs random search |
